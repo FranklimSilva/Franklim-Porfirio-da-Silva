@@ -1,0 +1,7 @@
+C:\Users\poorf\source\repos\IMP Informatica - Teste\ValorPerfeito\ValorPerfeito\ValorPerfeito\bin\Debug\ValorPerfeito.exe.config
+C:\Users\poorf\source\repos\IMP Informatica - Teste\ValorPerfeito\ValorPerfeito\ValorPerfeito\bin\Debug\ValorPerfeito.exe
+C:\Users\poorf\source\repos\IMP Informatica - Teste\ValorPerfeito\ValorPerfeito\ValorPerfeito\bin\Debug\ValorPerfeito.pdb
+C:\Users\poorf\source\repos\IMP Informatica - Teste\ValorPerfeito\ValorPerfeito\ValorPerfeito\obj\Debug\ValorPerfeito.csprojAssemblyReference.cache
+C:\Users\poorf\source\repos\IMP Informatica - Teste\ValorPerfeito\ValorPerfeito\ValorPerfeito\obj\Debug\ValorPerfeito.csproj.CoreCompileInputs.cache
+C:\Users\poorf\source\repos\IMP Informatica - Teste\ValorPerfeito\ValorPerfeito\ValorPerfeito\obj\Debug\ValorPerfeito.exe
+C:\Users\poorf\source\repos\IMP Informatica - Teste\ValorPerfeito\ValorPerfeito\ValorPerfeito\obj\Debug\ValorPerfeito.pdb
