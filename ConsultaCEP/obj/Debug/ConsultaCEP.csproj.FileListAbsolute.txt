@@ -1,0 +1,7 @@
+C:\Users\poorf\source\repos\IMP Informatica - Teste\Consulta CEP\ConsultaCEP\ConsultaCEP\bin\Debug\ConsultaCEP.exe.config
+C:\Users\poorf\source\repos\IMP Informatica - Teste\Consulta CEP\ConsultaCEP\ConsultaCEP\bin\Debug\ConsultaCEP.exe
+C:\Users\poorf\source\repos\IMP Informatica - Teste\Consulta CEP\ConsultaCEP\ConsultaCEP\bin\Debug\ConsultaCEP.pdb
+C:\Users\poorf\source\repos\IMP Informatica - Teste\Consulta CEP\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.csprojAssemblyReference.cache
+C:\Users\poorf\source\repos\IMP Informatica - Teste\Consulta CEP\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.csproj.CoreCompileInputs.cache
+C:\Users\poorf\source\repos\IMP Informatica - Teste\Consulta CEP\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.exe
+C:\Users\poorf\source\repos\IMP Informatica - Teste\Consulta CEP\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.pdb
